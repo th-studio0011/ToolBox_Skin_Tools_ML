@@ -9,7 +9,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "ca-app-pub-5026270687123701/9718923447"
         },
         {
           "ad_network": "startio"
@@ -27,7 +27,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "ca-app-pub-5026270687123701/4466596763"
         },
         {
           "ad_network": "startio"
@@ -38,7 +38,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "ca-app-pub-5026270687123701/3153515093"
         },
         {
           "ad_network": "startio"
@@ -49,7 +49,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "ca-app-pub-5026270687123701/9527351753"
         },
         {
           "ad_network": "startio"
@@ -60,7 +60,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "ca-app-pub-5026270687123701/2745379033"
         },
         {
           "ad_network": "startio"
@@ -71,7 +71,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "ca-app-pub-5026270687123701/2961943408"
         },
         {
           "ad_network": "startio"
@@ -82,7 +82,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "ca-app-pub-5026270687123701/8763266120"
         },
         {
           "ad_network": "startio"
@@ -93,7 +93,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "ca-app-pub-5026270687123701/5745579913"
         },
         {
           "ad_network": "startio"
@@ -104,7 +104,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "ca-app-pub-5026270687123701/3340399117"
         },
         {
           "ad_network": "startio"
@@ -115,7 +115,7 @@
       "units": [
         {
           "ad_network": "admob",
-          "ad_unit": ""
+          "ad_unit": "ca-app-pub-5026270687123701/2770371716"
         },
         {
           "ad_network": "startio"
@@ -123,6 +123,5 @@
       ]
     }
   },
-  "recommendation_apps": [
-  ]
+  "recommendation_apps": []
 }
