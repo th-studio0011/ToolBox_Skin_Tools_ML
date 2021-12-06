@@ -1,33 +1,128 @@
 {
   "version": "1.0",
   "ads_config": {
-    "enable": false,
+    "enable": true,
     "interval": 30
   },
   "ad_units": {
-    "open_splash": {
+    "open_app": {
       "units": [
         {
-          "ad_network": "admob"
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_splash": {
+      "units": [
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_home": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_select_game": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_feature_list": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_detail": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_download": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "native_success": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "banner_common": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_main_item": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
+        }
+      ]
+    },
+    "full_download": {
+      "units": [
+        {
+          "ad_network": "admob",
+          "ad_unit": ""
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     }
   },
   "recommendation_apps": [
-    {
-      "highlight": true,
-      "app_name": "FF Tools",
-      "package_name": "com.gmt.ff.tool.free",
-      "short_des": "Application for pro player, allows you to fix lag and detect enemy position.",
-      "icon": "https://play-lh.googleusercontent.com/fVronV46I-lIxADIbcG7IzTzwOoj_y9p0J-LU6J-YATnr_GJKmsCR3SNXW88P6sIcQ=s180",
-      "cover": "https://play-lh.googleusercontent.com/OfE3P-gxH2GB4REXO-2yTMaxkQszqc4lgGB9kebKlSc0TP6PZxbDfeNb0hwUjKv8p_Et"
-    },
-    {
-      "app_name": "FF Skin Tools",
-      "package_name": "com.thstudio.skin.ff.tools.free",
-      "short_des": "We have just added a new pack for Free Fire OB 30 1.66.1 \nProvides many Elite Pass Bundles: Red Criminal, Blue Criminal.... \nTry it free now !.",
-      "icon": "https://play-lh.googleusercontent.com/1GHeJAPxmVYLCyYIxEy8cg3SOWRevXMtWXAGK-ZCs67aZQtS-zKTjCr3mnRgzAxqp24A=s180-rw",
-      "cover": "https://play-lh.googleusercontent.com/2Ys0iQqRgAwXmDssK7secpg9RyTBjWMSszvCVjLeHV5kF9uegh8R-LWcdrFJckVUYII"
-    }
   ]
 }
