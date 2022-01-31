@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "ads_config": {
-    "enable": false,
+    "enable": true,
     "interval": 15
   },
   "ad_units": {
@@ -122,13 +122,6 @@
         }
       ]
     }
-  },
-  "force_update": {
-    "app_name": "Skin Tools For Mobile Legend",
-    "package_name": "com.hadu.skin.tools.ml.injector",
-    "short_des": "Sorry, Our application is not available now. Please install this new application for more skins and supporive.",
-    "icon": "https://play-lh.googleusercontent.com/rKO_QGqoZ7s_rFS2OjEHZRCCb5QBPcADwt6V3ay7whtp4qh_VkjBVGmCbeWPN_7OoX8=s360-rw",
-    "cover": "https://play-lh.googleusercontent.com/EJVBDYg6crjqr-8bTtBCwNh_CyK-Ss7CiaPRFmg6DybgT8-hqUPA2P-c5wRoabLbXTU"
   },
   "recommendation_apps": [
     {
