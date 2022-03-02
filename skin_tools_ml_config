@@ -126,10 +126,10 @@
   "recommendation_apps": [
     {
       "app_name": "ML Skin Injector",
-      "package_name": "com.hadu.skin.tools.ml.injector",
+      "package_name": "com.talent.ml.skin.tools.injector.free",
       "short_des": "Mod Chou KOF, Legend Skin and many other effects.",
-      "icon": "https://play-lh.googleusercontent.com/rKO_QGqoZ7s_rFS2OjEHZRCCb5QBPcADwt6V3ay7whtp4qh_VkjBVGmCbeWPN_7OoX8=s360-rw",
-      "cover": "https://play-lh.googleusercontent.com/EJVBDYg6crjqr-8bTtBCwNh_CyK-Ss7CiaPRFmg6DybgT8-hqUPA2P-c5wRoabLbXTU"
+      "icon": "https://play-lh.googleusercontent.com/7rfrXe64625-2KkoCyYhlRcDb0UxcUEFICBprzjuFMPAs7ZPkfiwLHOZI2yGzFxIO4w=s360-rw",
+      "cover": "https://play-lh.googleusercontent.com/gl_HyrZ6YB6XxjSMvKW4x0G5tQPJsfWdI1cGZ09-ASp_X0L0sYugpOAipowcnVcSYfY"
     }
   ]
 }
