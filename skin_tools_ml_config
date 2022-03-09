@@ -123,6 +123,11 @@
       ]
     }
   },
+  "app_version_config":{
+    "last_version": "1.2",
+    "last_version_code":3,
+    "new_feature": "In the new version we improve unzip process, only take 3 seconds."
+  },
   "recommendation_apps": [
     {
       "app_name": "ML Skin Injector",
